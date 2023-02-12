@@ -10,7 +10,7 @@
               <h1 class="text-grey">I'm Thuan Phat</h1>
               <span class="text-grey">Web Designer & Developer</span>
               <v-btn tile class="text-blue-darken-4 mt-8" variant="outlined">
-                Contact me
+                Contact mee
               </v-btn>
 
             </div>
