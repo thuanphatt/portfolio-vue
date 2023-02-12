@@ -8,14 +8,21 @@
             <div style="position: relative;" class="mt-16">
               <h1 class="text-grey">Hello,</h1>
               <h1 class="text-grey">I'm Thuan Phat</h1>
-              <span class="text-grey">Web Designer & Developer</span>
+              <span class="text-grey">Web Designer & Developer</span><br />
               <v-btn tile class="text-blue-darken-4 mt-8" variant="outlined">
-                Contact mee
+                Contact me
               </v-btn>
-
             </div>
           </v-col>
-          <v-col cols="7"></v-col>
+          <v-col cols="2">
+            <div
+              style="position: absolute; z-index: 999; bottom: 0;margin:auto 0; left: 0; right: 0; text-align: center;">
+              <v-icon>fas fa-angle-double-down</v-icon>
+            </div>
+          </v-col>
+          <v-col cols="5" style="position: relative; z-index: 999; " class="mt-16">
+            <v-img src="i1.png" contain max-height="300"></v-img>
+          </v-col>
         </v-row>
       </div>
     </v-container>
